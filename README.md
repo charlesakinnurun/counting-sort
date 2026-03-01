@@ -1,6 +1,6 @@
-# 📘 Counting Sort – README
+<h1 align="center">Counting Sort</h1>
 
-## 🔎 Overview
+## Overview
 
 **Counting Sort** is a non-comparison sorting algorithm that sorts elements by counting how many times each value appears.
 
